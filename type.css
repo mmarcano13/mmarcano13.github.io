@@ -1,0 +1,118 @@
+<style type="text/css"> 
+ 
+body  {
+	font: Arial;
+	background: #FFFFFF;
+	margin: 0; 
+	padding: 10px 0 10px 0;
+	text-align: center; 
+	color: #000000;
+}
+
+#container { 
+	width: 98%;  
+	background: #FFFFFF;
+	margin: 0 auto; 
+} 
+
+/* Header */
+
+#header { 
+
+	font-family: Arial;
+	font-size: 16px;
+	background: #000000;
+	color: #FFFFFF;
+	text-align: left;
+	font-weight: bold;
+	vertical-align: top;
+	padding: 0 10px 0 20px;  
+	width: 100%
+	height: 150px;
+} 
+
+/* Menu */
+
+#menu 
+{
+	font-family: Arial;
+	font-size: 10px;
+	background: rgb(102, 102, 102);
+	color: rgb(255, 255, 255);
+	vertical-align: top;
+	font-weight: bold;
+	margin: 0px;
+}
+
+/* Content */
+
+#mainContent {
+	margin: 0; 
+        padding: 15px 10px 15px 20px; 
+} 
+
+/* Footer */
+
+#footer { 
+	margin: 0 auto;
+	padding-bottom: 5px;
+	width: 98%;
+	height: 20px;
+	border-top: 1px solid #000000;
+	background: #FFF url('x2.gif') top left repeat-x;
+} 
+
+.headertext {
+	font-family: sans-serif, Arial;
+	font-size: 12pt;
+	vertical-align: top;
+    background: #000000;
+	color: #FFFFFF;
+	text-align: left;
+	font-weight: bold;
+	margin: 0px;
+}
+
+.headerlogo {
+	font-family: sans-serif, Arial;
+	font-size: 12pt;
+	vertical-align: top;
+	background: #000000;
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: bold;
+	margin: 0px;
+}
+
+.contenttext {
+	font-family: sans-serif, Arial;
+	font-size: 11pt;
+	line-height: 1.7em;
+	color: #000000;
+}
+
+.footertext {
+	font-family: sans-serif, Arial;
+	font-size: 8pt;
+	color: #000000;
+}
+
+.link {
+	font-family: sans-serif, Arial;
+	color: blue;
+	text-decoration: none;
+}
+
+.menulink {
+        font-size: 12px;
+        font-weight: bold;
+	text-decoration: none;
+        color: #FFFFFF;
+}
+
+.blankline {
+	background: #FFFFFF; 
+	line-height:0.33em
+}
+
+</style>
