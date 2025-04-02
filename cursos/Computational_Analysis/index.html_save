@@ -1,0 +1,90 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Mariano Marcano's Personal Webpage</title>
+<link href="../../type.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id="container">
+
+<div id="header">
+   <span class="headertext">
+         <br>
+         Mariano Marcano's Personal Web Page<br>
+         <br>
+   </span>
+<!-- end #header --></div>
+<div class="blankline"><br></div>
+  <div id="menu">
+  <table width="70%" border="0" cellpadding="5" cellspacing="0">
+    <tr align="center">
+  <td><a href="../../index.html" class="menulink">Home</a></td>
+  <td><a href="../../info.html" class="menulink">Contact</a></td>
+  <td><a href="../../cv.html" class="menulink">Vitae</a></td>
+  <td><a href="../../research.html" class="menulink">Research</a></td>
+  <td><a href="http://epsilon.uprrp.edu/mmarcanolab" class="menulink">Laboratory</a></td>
+  <td><a href="../index.html" class="menulink">Teaching</a></td>
+  </tr>
+  </table>
+</div>
+
+<div id="mainContent">
+  <span class="contenttext">
+<center><b>MATE 6680 Computational Analysis </b></center>
+
+<p> <a href="./syllabus_M6680_2016.pdf">Course syllabus</a> </p>
+
+<p> <b> Course topics </b></p>
+<ul>
+<li> <a href="Presentations/LinAlgRev.pdf"> Review of linear algebra
+</a> </li>
+<li> <a href="Presentations/BasicConceptsNumAna.pdf"> 
+Basic concepts of numerical analysis</a> </li>
+<li> <a href="Presentations/LinearEquations.pdf"> 
+Systems of linear equations: Direct methods </a> </li>
+<li> <a href="Presentations/ErrorAnalysis.pdf"> 
+Error analysis of linear systems </a> </li>
+<li> <a href="Presentations/IterativeMethods.pdf"> 
+Systems of linear equations: Iterative methods </a> </li>
+<li> <a href="Presentations/Eigenvalues.pdf"> 
+Numerical approximation of eigenvalues </a> </li>
+<li> <a href="Presentations/LeastSquares.pdf"> 
+The Least-squares problem </a> </li>
+<li> <a href="Presentations/NonlinearEquationsSingleVar.pdf"> 
+Numerical methods for nonlinear equations: A single variable </a> </li>
+<li> <a href="Presentations/NonlinearEquationsMultiVar.pdf"> 
+Numerical methods for nonlinear equations: Several variables </a> </li>
+<li> <a href="Presentations/PolynomialInterpolation.pdf"> 
+Polynomial interpolation</a> </li>
+<li> <a href="Presentations/NumericalIntegration.pdf"> 
+Numerical integration</a> </li>
+<li> <a href="Presentations/ODE_IVP.pdf"> 
+Numerical solution of ordinary differential 
+equations: the initila value problem </a> </li>
+</ul>
+<p> <b> Homework assignments</b></p>
+<ul>
+<li> <a href="h1.pdf">Assignment 1</a>
+<a href="Presentations/h1_answer.pdf">solution</a>
+(August 26)</li>
+<li> <a href="h2.pdf">Assignment 2</a>, <a href="Presentations/h2_answer.pdf">solution</a> (September 16)</li>
+<li> <a href="h3.pdf">Assignment 3</a>, <a href="Presentations/h3_answer.pdf">solution</a> (September 28)</li>
+<li> <a href="h4.pdf">Assignment 4</a>, <a href="Presentations/h4_answer.pdf">solution</a> (October 5)</li>
+<li> <a href="h5.pdf">Assignment 5</a>, <a href="Presentations/h5_answer.pdf">solution</a>  (October 28)</li>
+<li> <a href="h6.pdf">Assignment 6</a>, <a href="Presentations/h6_answer.pdf">solution</a> (November 13)</li>
+<li> <a href="h7.pdf">Assignment 7</a>, <a href="Presentations/h7_answer.pdf">solution</a> (December 2)</li>
+</ul>
+
+<p> <b> Exams</b></p>
+<ul>
+<li> <a href="e1.pdf">Exam I</a>, <a href="Presentations/e1_answer.pdf">solution</a> (October 7)</li>
+<li> <a href="e2.pdf">Exam II</a>, <a href="Presentations/e2_answer.pdf">solution</a> (December 7)</li>
+</ul>
+
+<!-- end #mainContent --></div>
+</div>
+<div id="footer">
+</div>
+</body>
+</html>
