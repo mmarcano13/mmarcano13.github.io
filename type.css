@@ -99,8 +99,8 @@ body  {
 
 .link {
 	font-family: sans-serif, Arial;
-	color: blue;
 	text-decoration: none;
+	color: blue;
 }
 
 .menulink {
@@ -114,5 +114,3 @@ body  {
 	background: #FFFFFF; 
 	line-height:0.33em
 }
-
-</style>
